@@ -23,7 +23,7 @@ body {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;  
-          position: relative;     
+          position: fixed;     
 }
 
 /*Navbar Reset*/
